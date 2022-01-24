@@ -2,7 +2,7 @@
   <div class="home-page">
     <div class="banner">
       <div class="container">
-        <h1 class="logo-font">conduit(拉钩教育777)</h1>
+        <h1 class="logo-font">conduit(拉钩教育888)</h1>
         <p>A place to share your knowledge.</p>
       </div>
     </div>
